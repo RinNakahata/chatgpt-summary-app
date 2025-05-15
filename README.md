@@ -80,6 +80,10 @@ chatgpt-summary-app/
 - 実行には有効なOpenAI APIキーが必要です。無料枠を超えた場合は課金が必要です。
 - 本アプリは学習およびポートフォリオ目的で制作されています。
 
+## ✍ 作者
+- 名前：Rin Nakahata
+- 技術ブログ（note）：[note記事はこちら](https://note.com/rin_nakahata/n/n903afd29672f)
+
 ## 📜 ライセンス
 
 このプロジェクトはMITライセンスの下で提供されています。
